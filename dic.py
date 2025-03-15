@@ -1,0 +1,9 @@
+student={
+    "name":"Shakti",
+    "score":{
+        "chemistry":77,
+        "physics":88,
+        "mathematics":90
+    }
+}
+print(student)
